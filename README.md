@@ -1,10 +1,10 @@
 # My Github Workshop Repository 
 **Ritwik**
 ## Interests: 
---Web Development (Front-End)
+--Web Development (Front-End) \n
 -- AI/ML
 
-##Tasks:
+## Tasks:
 [] Attendance Portal
 [] Minutes of Meeting generator
 [] Tech Wrapped
